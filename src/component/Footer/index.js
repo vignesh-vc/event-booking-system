@@ -10,8 +10,8 @@ export default function Footer() {
           <div className="myicon2-header">EVENT</div>
         </div>
         <p>
-          MNK   is the official EVENT ticket booking app for MNK RE GROUPS
-          Theaters.
+          MNK is the official EVENT Ticket Booking app for MNK RE GROUPS.
+          
         </p>
         <ul className="socials">
           <li>
