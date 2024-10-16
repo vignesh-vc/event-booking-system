@@ -76,7 +76,7 @@ export default function Payment() {
                 <div className="payment-text-op">Ticket(s)</div>
               </div>
               <div className="payment-tickets-count">
-                <div className="payment-text-op">Big Screen</div>
+                <div className="payment-text-op"> Screen</div>
                 <div className="payment-text">
                   I CLASS - {ticketLocalStored && ticketLocalStored.join(", ")}
                 </div>
